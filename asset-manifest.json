@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "./static/css/main.25ba8d9c.chunk.css",
-    "main.js": "./static/js/main.6029f18d.chunk.js",
-    "main.js.map": "./static/js/main.6029f18d.chunk.js.map",
+    "main.js": "./static/js/main.bf3914c3.chunk.js",
+    "main.js.map": "./static/js/main.bf3914c3.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.149a78cd.js",
     "runtime-main.js.map": "./static/js/runtime-main.149a78cd.js.map",
-    "static/js/2.e631a08b.chunk.js": "./static/js/2.e631a08b.chunk.js",
-    "static/js/2.e631a08b.chunk.js.map": "./static/js/2.e631a08b.chunk.js.map",
+    "static/js/2.8acd3a0c.chunk.js": "./static/js/2.8acd3a0c.chunk.js",
+    "static/js/2.8acd3a0c.chunk.js.map": "./static/js/2.8acd3a0c.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.aab861e10907d9d6648954fb9e6c3820.js": "./precache-manifest.aab861e10907d9d6648954fb9e6c3820.js",
+    "precache-manifest.cf480786ecbb60eea29aa677001fe960.js": "./precache-manifest.cf480786ecbb60eea29aa677001fe960.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.25ba8d9c.chunk.css.map": "./static/css/main.25ba8d9c.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/BucleLogo.png": "./static/media/BucleLogo.0d15f832.png",
     "static/media/address_image.svg": "./static/media/address_image.3b021f8f.svg",
     "static/media/animated_logo.svg": "./static/media/animated_logo.52e0714e.svg",
+    "static/media/anoop.png": "./static/media/anoop.5fab595f.png",
     "static/media/anoop.jpeg": "./static/media/anoop.a6144fe4.jpeg",
     "static/media/blogs_image.svg": "./static/media/blogs_image.b6b12c7d.svg",
     "static/media/cisco_logo.png": "./static/media/cisco_logo.5cb5bf90.png",
@@ -48,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.149a78cd.js",
-    "static/js/2.e631a08b.chunk.js",
+    "static/js/2.8acd3a0c.chunk.js",
     "static/css/main.25ba8d9c.chunk.css",
-    "static/js/main.6029f18d.chunk.js"
+    "static/js/main.bf3914c3.chunk.js"
   ]
 }
